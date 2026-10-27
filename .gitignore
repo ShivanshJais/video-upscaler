@@ -1,0 +1,4 @@
+bin/
+*.work/
+*_4k.mp4
+.DS_Store
